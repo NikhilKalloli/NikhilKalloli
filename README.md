@@ -100,7 +100,7 @@ Finding realtions between Technology and Humanity is so fascinating.
     </td>
   </tr>
  <tr>
-      <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
@@ -121,11 +121,11 @@ Finding realtions between Technology and Humanity is so fascinating.
         <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
       <br>Flask
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="linux" />
       <br>Linux
     </td>
-              <td align="center" width="96">
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
       <br>Postman
     </td>
@@ -139,54 +139,6 @@ Finding realtions between Technology and Humanity is so fascinating.
     </td>
  </tr>
 
- <tr>
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=debian" width="48" height="48" alt="Debian" />
-      <br>Debian
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="firebase" />
-      <br>Firebase
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
-      <br>Docker
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp" />
-      <br>GCP
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
-      <br>NEXTjs
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="pytorch" />
-      <br>Pytorch
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="sklearn" />
-      <br>Sklearn
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
-      <br>Tensorflow
-   </td>
-   
-   <td align="center" width="96">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" alt="opencv"/>
-      <br>OpenCV
-   </td>
-   
-   
- </tr>
 
  
 </table>
