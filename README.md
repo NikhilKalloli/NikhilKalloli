@@ -179,12 +179,11 @@ Finding realtions between Technology and Humanity is so fascinating.
      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="tensorflow" />
       <br>Tensorflow
    </td>
-
    
-
-   
-   
-   
+   <td align="center" width="96">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="48" height="48" alt="opencv"/>
+      <br>OpenCV
+   </td>
    
    
  </tr>
