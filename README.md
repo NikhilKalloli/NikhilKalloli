@@ -144,5 +144,5 @@ Finding realtions between Technology and Humanity is so fascinating.
 </table>
 <br><br>
 
-
+![](https://komarev.com/ghpvc/?username=NikhilKalloli&color=brightgreen)
 </div>
