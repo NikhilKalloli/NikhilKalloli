@@ -17,7 +17,7 @@ I am interested in **Machine Learning/Deep Learning**, **Back-end Web Technologi
 I aspire to design, research, collaborate, code, create, learn, unlearn, negotiate, & manage.
 Finding realtions between Technology and Humanity is so fascinating.
 
-# 💻 My favorite tools and technologies
+# 💻 My favourite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
 <table align="center">
   <tr>
