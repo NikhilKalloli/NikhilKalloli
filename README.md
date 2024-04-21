@@ -8,7 +8,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/NikhilKalloli)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1057706883751886970)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Nikhil_Kalloli/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_n_i_k_h_i_l_09_/)
 
 ### 🌱 Welcome to my Github page ! 
 Imma sophomore at [**MSRIT, Banglore**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/) studying Computer Science and Engineering.
