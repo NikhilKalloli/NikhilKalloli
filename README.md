@@ -12,7 +12,7 @@
 
 
 ### 🌱 Welcome to my Github page ! 
-Imma sophomore at [**MSRIT, Banglore**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/) studying Computer Science and Engineering.
+Imma prefinal year student at [**MSRIT, Banglore**](https://www.linkedin.com/school/m.s.-ramaiah-institute-of-technology/) studying Computer Science and Engineering.
 Currently learning to build scalable Backend for Systems.
 I am interested in **Machine Learning/Deep Learning**, **Back-end Web Technologies**.
 I aspire to design, research, collaborate, code, create, learn, unlearn, negotiate, & manage.
