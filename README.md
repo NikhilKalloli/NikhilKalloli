@@ -57,8 +57,8 @@ Finding realtions between Technology and Humanity is so fascinating.
       <br>JAVA
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
+        <img src="https://skillicons.dev/icons?i=fastapi" width="50" height="50" alt="fastapi" />
+      <br>FastAPI
     </td>
   
   </tr>
