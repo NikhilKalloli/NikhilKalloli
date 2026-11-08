@@ -23,37 +23,37 @@ Finding realtions between Technology and Humanity is so fascinating.
 <table align="center">
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="react"/>
       <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+         <img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="python"/>
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+         <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="js"/>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="cpp"/>
       <br>C++
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-      <br>RESTful APIs
+       <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="gcp"/>
+      <br>GCP
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+       <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql"/>
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="ts"/>
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="java"/>
       <br>JAVA
     </td>
     <td align="center" width="96">
@@ -68,7 +68,7 @@ Finding realtions between Technology and Humanity is so fascinating.
       <br>C
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+          <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="github"/>
       <br>Github
     </td>
     <td align="center" width="96"> 
